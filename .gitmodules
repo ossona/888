@@ -1,0 +1,3 @@
+[submodule "countries-frontend"]
+	path = countries-frontend
+	url = https://github.com/ossona/888.git
